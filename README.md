@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0014-longest-common-prefix/) | Easy |
+| [0016-3sum-closest](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0016-3sum-closest/) | Medium |
 | [0039-combination-sum](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0039-combination-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0011-container-with-most-water/) | Medium |
+| [0016-3sum-closest](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0016-3sum-closest/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0344-reverse-string](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0344-reverse-string/) | Easy |
 ## String Matching
@@ -63,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0039-combination-sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
