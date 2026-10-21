@@ -69,4 +69,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0016-3sum-closest/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/techgiram/Striver-SDE-Sheet/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
